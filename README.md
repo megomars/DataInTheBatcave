@@ -9,3 +9,5 @@
 - [World Bank](https://data.worldbank.org/)
 - [Reddit datasets](https://www.reddit.com/r/datasets/top/?sort=top&t=month)
 - [Data is plural](https://tinyletter.com/data-is-plural/archive)
+- [Eurostat](http://ec.europa.eu/eurostat/data/database)
+- [data.gov.uk](https://data.gov.uk/)
